@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Главная on mywebsite</title>
+    <link>/</link>
+    <description>Recent content in Главная on mywebsite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 3</title>
+      <link>/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      
+      <guid>/posts/post-3/</guid>
+      <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      
+      <guid>/posts/post-2/</guid>
+      <description>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.
+Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      
+      <guid>/posts/post-1/</guid>
+      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.
+Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea.</description>
+    </item>
+    
+    <item>
+      <title>I like to roar</title>
+      <link>/posts/2022-04-03-i-like-to-roar/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-04-03-i-like-to-roar/</guid>
+      <description>Hi, quick update from me. I just want to let everyone know that I like roaring.</description>
+    </item>
+    
+    <item>
+      <title>Today I made friends</title>
+      <link>/posts/2022-04-02-today-i-made-friends/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-04-02-today-i-made-friends/</guid>
+      <description>I got lost in the woods today. Two friends, a Meerkat and a Warthog, found me, sung a song with me and gave my life new meaning. Today was a good day.</description>
+    </item>
+    
+    <item>
+      <title>Vegan experiment</title>
+      <link>/posts/2022-04-01-vegan-experiment/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-04-01-vegan-experiment/</guid>
+      <description>I tried to become a vegan today. I made it to lunch time and couldn&amp;rsquo;t bear the sight of another green leaf. Yuck!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m learning Hugo, one step at a time.</description>
+    </item>
+    
+  </channel>
+</rss>
