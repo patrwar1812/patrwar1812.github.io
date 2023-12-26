@@ -72,5 +72,95 @@ Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in v
       <description>I&amp;rsquo;m learning Hugo, one step at a time.</description>
     </item>
     
+    <item>
+      <title>Aboutus</title>
+      <link>/aboutus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aboutus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catering</title>
+      <link>/services/catering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/catering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>/services/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contactus</title>
+      <link>/contactus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contactus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hospitality</title>
+      <link>/services/hospitality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/hospitality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>/blogging/my-first-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogging/my-first-blog/</guid>
+      <description>&amp;ldquo;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+    </item>
+    
+    <item>
+      <title>My Fourth Blog</title>
+      <link>/blogging/my-fourth-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogging/my-fourth-blog/</guid>
+      <description>&amp;ldquo;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+    </item>
+    
+    <item>
+      <title>My Second Blog</title>
+      <link>/blogging/my-second-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogging/my-second-blog/</guid>
+      <description>&amp;ldquo;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+    </item>
+    
+    <item>
+      <title>My Third Blog</title>
+      <link>/blogging/my-third-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogging/my-third-blog/</guid>
+      <description>&amp;ldquo;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>/services/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/travel/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
